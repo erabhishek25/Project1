@@ -10,4 +10,7 @@ class LinkedList:
     def __inti__(self):
         self.head = None
 
+    def insert_from_head(self, value):
+        pass
+    
 
