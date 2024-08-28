@@ -11,6 +11,8 @@ class LinkedList:
         self.head = None
 
     def insert_from_head(self, value):
-        pass
+        # create new node
+        new_node = Node(value)
+        pass 
     
 
